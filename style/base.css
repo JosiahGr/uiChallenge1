@@ -6,6 +6,7 @@ body {
 
 div {
   background-color: rgb(179, 179, 179);
+  border: solid 1px;
 }
 
 @media screen and (min-width: 768px) {

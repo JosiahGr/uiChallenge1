@@ -1,64 +1,48 @@
 p {
   margin: 0px;
-  padding: 12px;
+  top: 45%;
+  position: relative;
+  text-align: center;
 }
-
 #container-a {
   width: 478px;
   height: 148px;
-  border: solid 1px;
 }
-
 #container-b {
   width: 478px;
   height: 148px;
-  border: solid 1px;
 }
-
 #container-c {
   width: 478px;
   height: 123px;
-  border: solid 1px;
 }
-
 #container-d {
   width: 478px;
   height: 125px;
-  border: solid 1px;
 }
-
 #container-e {
   width: 238px;
   height: 248px;
-  border: solid 1px;
   float: left;
 }
-
 #container-f {
   width: 238px;
   height: 248px;
-  border: solid 1px;
   float: right;
 }
-
 #container-g {
   width: 238px;
   height: 248px;
-  border: solid 1px;
   float: left;
 }
-
 #container-h {
   width: 238px;
   height: 248px;
-  border: solid 1px;
   float: right;
 }
-
 #container-i {
   width: 478px;
   height: 78px;
-  border: solid 1px;
   float: right;
 }
 
@@ -66,56 +50,45 @@ p {
   #container-a {
     width: 958px;
     height: 100px;
-    border: solid 1px;
   }
-
   #container-b {
     width: 198px;
     height: 598px;
-    border: solid 1px;
     float: left;
   }
   #container-c {
     width: 378px;
     height: 198px;
-    float: right;
-    border: solid 1px;
+    float: left;
   }
   #container-d {
     width: 378px;
     height: 198px;
-    float: left;
-    border: solid 1px;
+    float: right;
   }
   #container-e {
-   width: 188px;
+    width: 188px;
     height: 248px;
     display: inline-block;
-    border: solid 1px;
   }
   #container-f {
-   width: 188px;
+    width: 188px;
     height: 248px;
     display: inline-block;
-    border: solid 1px;
   }
   #container-g {
-   width: 188px;
+    width: 188px;
     height: 248px;
     display: inline-block;
-    border: solid 1px;
   }
   #container-h {
-   width: 188px;
+    width: 188px;
     height: 248px;
     display: inline-block;
-    border: solid 1px;
   }
   #container-i {
-   width: 758px;
+    width: 758px;
     height: 148px;
     float: right;
-    border: solid 1px;
   }
 }
-
