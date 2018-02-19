@@ -1,0 +1,94 @@
+p {
+  margin: 0px;
+  top: 45%;
+  position: relative;
+  text-align: center;
+}
+#container-a {
+  width: 478px;
+  height: 148px;
+}
+#container-b {
+  width: 478px;
+  height: 148px;
+}
+#container-c {
+  width: 478px;
+  height: 123px;
+}
+#container-d {
+  width: 478px;
+  height: 125px;
+}
+#container-e {
+  width: 238px;
+  height: 248px;
+  float: left;
+}
+#container-f {
+  width: 238px;
+  height: 248px;
+  float: right;
+}
+#container-g {
+  width: 238px;
+  height: 248px;
+  float: left;
+}
+#container-h {
+  width: 238px;
+  height: 248px;
+  float: right;
+}
+#container-i {
+  width: 478px;
+  height: 78px;
+  float: right;
+}
+
+@media screen and (min-width: 800px) {
+  #container-a {
+    width: 958px;
+    height: 100px;
+  }
+  #container-b {
+    width: 198px;
+    height: 598px;
+    float: left;
+  }
+  #container-c {
+    width: 378px;
+    height: 198px;
+    float: left;
+  }
+  #container-d {
+    width: 378px;
+    height: 198px;
+    float: right;
+  }
+  #container-e {
+    width: 188px;
+    height: 248px;
+    display: inline-block;
+  }
+  #container-f {
+    width: 188px;
+    height: 248px;
+    display: inline-block;
+  }
+  #container-g {
+    width: 188px;
+    height: 248px;
+    display: inline-block;
+  }
+  #container-h {
+    width: 188px;
+    height: 248px;
+    display: inline-block;
+  }
+  #container-i {
+    width: 758px;
+    height: 148px;
+    float: right;
+  }
+}
