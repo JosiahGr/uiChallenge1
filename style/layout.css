@@ -1,0 +1,72 @@
+p {
+  margin: 0px;
+  padding: 12px;
+}
+
+#container-a {
+  background-color: rgb(128, 128, 128);
+  width: 478px;
+  height: 148px;
+  border: solid 1px;
+}
+
+#container-b {
+  background-color: rgba(128, 128, 128, 0.598);
+  width: 478px;
+  height: 148px;
+  border: solid 1px;
+}
+
+#container-c {
+  background-color: rgb(159, 156, 156);
+  width: 478px;
+  height: 123px;
+  border: solid 1px;
+}
+
+#container-d {
+  background-color: rgb(174, 174, 174);
+  width: 478px;
+  height: 125px;
+  border: solid 1px;
+}
+
+#container-e {
+  background-color: rgb(211, 209, 209);
+  width: 238px;
+  height: 248px;
+  border: solid 1px;
+  float: left;
+}
+
+#container-f {
+  background-color: rgb(216, 216, 216);
+  width: 238px;
+  height: 248px;
+  border: solid 1px;
+  float: right;
+}
+
+#container-g {
+  background-color: rgb(203, 203, 203);
+  width: 238px;
+  height: 248px;
+  border: solid 1px;
+  float: left;
+}
+
+#container-h {
+  background-color: rgb(203, 202, 202);
+  width: 238px;
+  height: 248px;
+  border: solid 1px;
+  float: right;
+}
+
+#container-i {
+  background-color: rgb(164, 162, 162);
+  width: 478px;
+  height: 78px;
+  border: solid 1px;
+  float: right;
+}
