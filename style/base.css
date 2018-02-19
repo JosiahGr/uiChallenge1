@@ -3,3 +3,13 @@ body {
   height: 100%;
   margin: 0px auto;
 }
+
+div {
+  background-color: rgb(179, 179, 179);
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    width: 960px;
+  }
+}

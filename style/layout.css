@@ -4,35 +4,30 @@ p {
 }
 
 #container-a {
-  background-color: rgb(128, 128, 128);
   width: 478px;
   height: 148px;
   border: solid 1px;
 }
 
 #container-b {
-  background-color: rgba(128, 128, 128, 0.598);
   width: 478px;
   height: 148px;
   border: solid 1px;
 }
 
 #container-c {
-  background-color: rgb(159, 156, 156);
   width: 478px;
   height: 123px;
   border: solid 1px;
 }
 
 #container-d {
-  background-color: rgb(174, 174, 174);
   width: 478px;
   height: 125px;
   border: solid 1px;
 }
 
 #container-e {
-  background-color: rgb(211, 209, 209);
   width: 238px;
   height: 248px;
   border: solid 1px;
@@ -40,7 +35,6 @@ p {
 }
 
 #container-f {
-  background-color: rgb(216, 216, 216);
   width: 238px;
   height: 248px;
   border: solid 1px;
@@ -48,7 +42,6 @@ p {
 }
 
 #container-g {
-  background-color: rgb(203, 203, 203);
   width: 238px;
   height: 248px;
   border: solid 1px;
@@ -56,7 +49,6 @@ p {
 }
 
 #container-h {
-  background-color: rgb(203, 202, 202);
   width: 238px;
   height: 248px;
   border: solid 1px;
@@ -64,9 +56,66 @@ p {
 }
 
 #container-i {
-  background-color: rgb(164, 162, 162);
   width: 478px;
   height: 78px;
   border: solid 1px;
   float: right;
 }
+
+@media screen and (min-width: 800px) {
+  #container-a {
+    width: 958px;
+    height: 100px;
+    border: solid 1px;
+  }
+
+  #container-b {
+    width: 198px;
+    height: 598px;
+    border: solid 1px;
+    float: left;
+  }
+  #container-c {
+    width: 378px;
+    height: 198px;
+    float: right;
+    border: solid 1px;
+  }
+  #container-d {
+    width: 378px;
+    height: 198px;
+    float: left;
+    border: solid 1px;
+  }
+  #container-e {
+   width: 188px;
+    height: 248px;
+    display: inline-block;
+    border: solid 1px;
+  }
+  #container-f {
+   width: 188px;
+    height: 248px;
+    display: inline-block;
+    border: solid 1px;
+  }
+  #container-g {
+   width: 188px;
+    height: 248px;
+    display: inline-block;
+    border: solid 1px;
+  }
+  #container-h {
+   width: 188px;
+    height: 248px;
+    display: inline-block;
+    border: solid 1px;
+  }
+  #container-i {
+   width: 758px;
+    height: 148px;
+    float: right;
+    border: solid 1px;
+  }
+}
+
